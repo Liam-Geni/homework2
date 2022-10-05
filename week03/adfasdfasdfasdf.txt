@@ -1,0 +1,3 @@
+https://studyingych.tistory.com/39   -- 라우트 구조
+https://www.w3schools.com/tags/ref_httpmethods.asp get, post
+https://jw910911.tistory.com/117  --bodyparser urlencoded, json
